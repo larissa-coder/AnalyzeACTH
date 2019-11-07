@@ -1,7 +1,9 @@
 ## BTEC330 Fosso Project2
 
 ## Install necessary packages
+## BTEC330 Fosso Project2
 
+## Install necessary packages
 
 install.packages("ggplot2")
 library(ggplot2)
@@ -17,22 +19,6 @@ IBS1 <- read.csv("RobinsonEtAl_Sup1.csv", header = TRUE)
 ##  https://statquest.org/2017/10/30/statquest-multiple-regression-in-r/
 ##  http://www.sthda.com/english/articles/40-regression-analysis/167-simple-linear-regression-in-r/
 ##  http://r-statistics.co/Linear-Regression.html
-
-
-single.regression <- lm(BMI ~ SerumCortisol, data=IBS1)
-summary(single.regression)
-
-single.regression <- lm(BMI ~ CRP, data=IBS1)
-summary(single.regression)
-
-single.regression <- lm(BMI ~ ESR, data=IBS1)
-summary(single.regression)
-
-single.regression <- lm(BMI ~ PlateletCount, data=IBS1)
-summary(single.regression)
-
-single.regression <- lm(BMI ~ IgA, data=IBS1)
-summary(single.regression)
 
 single.regression <- lm(BMI ~ ACTH, data=IBS1)
 summary(single.regression)
