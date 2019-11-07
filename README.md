@@ -13,31 +13,22 @@ Robinson, JM. et al. 2019. Complete blood count with differential: An effective 
 > single.regression <- lm(BMI ~ ACTH, data=IBS1)
 > print(single.regression)
 
+
 Call:
 lm(formula = BMI ~ ACTH, data = IBS1)
 
 Coefficients:
-  (Intercept)  SerumCortisol 
-      31.9454        -0.5004  
+(Intercept)         ACTH  
+    25.5406       0.0661  
 
 ```
 ```
-ggplot(IBS1, aes(x=BMI, y=SerumCortisol)) +
+ggplot(IBS1, aes(x=BMI, y=ACTH)) +
   geom_point() +    
   geom_smooth(method=lm))
+  
+  ```
 
-##
-### Results of single regression, BMI x C-Reactive Protein (CRP)
-```
-> single.regression <- lm(BMI ~ CRP, data=IBS1)
-> print(single.regression)
-
-Call:
-lm(formula = BMI ~ SerumCortisol + CRP, data = IBS1)
-
-Coefficients:
-  (Intercept)  SerumCortisol            CRP  
-      30.7936        -0.5231         0.6042  
 ## ACTH Boxplot
 ![](fig_output/ACTH_boxplot.png)
 ##
