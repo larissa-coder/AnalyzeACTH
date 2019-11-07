@@ -25,7 +25,7 @@ ggplot(IBS1, aes(x=BMI, y=SerumCortisol)) +
   geom_point() +    
   geom_smooth(method=lm) 
 ```
-![BMI_Cortisol](../master/Images/CORTxBMI.png?sanitize=true)
+![BMI_ACTH](fig_ouput/ACTH_boxplot.png)
 ##
 ### Results of single regression, BMI x C-Reactive Protein (CRP)
 ```
