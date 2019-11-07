@@ -27,10 +27,32 @@ ggplot(IBS1, aes(x=BMI, y=ACTH)) +
 geom_point() +    
 geom_smooth(method=lm) 
 
-## 3D scatterplot for the most significant 3-variable multiple regression model
-## http://www.sthda.com/english/wiki/scatterplot3d-3d-graphics-r-software-and-data-visualization
+#BMI, ACTH
+single.regression <- lm(BMI ~ ACTH, data=IBS1)
+print(single.regression)
+df<-na.omit(data)
+ggplot(IBS1, aes(x=BMI, y=ACTH)) +
+  geom_point() +    
+  geom_smooth(method=lm)
+sink("data_output/ACTH_regression.txt")
+print(single.regression)
+sink()
 
-s3d <- scatterplot3d(IBS$BMI, IBS$SerumCortisol, IBS$CRP,  pch=16, color="steelblue", box="TRUE", highlight.3d=FALSE, type="h", main="BMI x Cortisol x CRP")
-fit <- lm(SerumCortisol ~ BMI + CRP, data=IBS)
-s3d$plane3d(fit)
+png("fig_output/ACTH_scatterplot.png")
+ACTH_scatterplot <- ggplot(IBS1, aes(x = BMI, y = ACTH)) +
+  geom_point() +    
+  geom_smooth(method = lm) 
 
+print(ACTH_scatterplot)
+dev.off()
+
+boxplot(ACTH ~ IBS.subtype, data = IBS1, main="ACTH by IBS1 subtype", 
+        xlab = "IBS1.subtype", ylab = "ACTH"
+)
+
+png("fig_output/ACTH_boxplot.png")
+Basophils_boxplot <- boxplot(Basophils ~ IBS.subtype, data = IBS1, main="ACTH by IBS1 subtype", 
+                             xlab = "IBS1.subtype", ylab = "ACTH"
+)
+print(ACTH_boxplot)
+dev.off()
