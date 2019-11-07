@@ -20,15 +20,6 @@ Coefficients:
   (Intercept)  SerumCortisol 
       31.9454        -0.5004  
 
-##
-### ACTH_S
-![](fig_output/ACTH_scatterplot.png)
-
-
-##
-##
-##
-
 ```
 ```
 ggplot(IBS1, aes(x=BMI, y=SerumCortisol)) +
