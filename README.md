@@ -26,7 +26,7 @@ ggplot(IBS1, aes(x=BMI, y=SerumCortisol)) +
   geom_smooth(method=lm)
 ## ACTH Boxplot
 ![](fig_output/ACTH_boxplot.png)
-
+##
 ### Results of single regression, BMI x C-Reactive Protein (CRP)
 ```
 > single.regression <- lm(BMI ~ CRP, data=IBS1)
@@ -40,7 +40,7 @@ Coefficients:
       30.7936        -0.5231         0.6042  
 ## ACTH SCatterplot
 ![](fig_output/scatterplot.png)
-
+##
 ##
 ##
 ### Results of multiple regression, BMI x Serum Cortisol + C-Reactive Protein (CRP)
