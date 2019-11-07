@@ -4,7 +4,6 @@
 ## BTEC330 Fosso Project2
 
 ## Install necessary packages
-
 install.packages("ggplot2")
 library(ggplot2)
 
@@ -31,6 +30,13 @@ df<-na.omit(data)
 ggplot(IBS1, aes(x=BMI, y=ACTH)) +
   geom_point() +    
   geom_smooth(method=lm)
+png("fig_output/ACTH_single.regression.png")
+ACTH_single.regression <- ggplot(IBS1, aes(x = BMI, y = ACTH)) +
+  geom_point() +    
+  geom_smooth(method = lm) 
+print(ACTH_single.regression)
+dev.off()
+
 sink("data_output/ACTH_regression.txt")
 print(single.regression)
 sink()
@@ -53,3 +59,5 @@ ACTH_boxplot <- boxplot(ACTH ~ IBS.subtype, data = IBS1, main="ACTH by IBS1 subt
 )
 print(ACTH_boxplot)
 dev.off()
+
+
