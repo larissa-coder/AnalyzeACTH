@@ -19,13 +19,22 @@ lm(formula = BMI ~ ACTH, data = IBS1)
 Coefficients:
   (Intercept)  SerumCortisol 
       31.9454        -0.5004  
+
+##
+### ACTH_S
+![](fig_output/ACTH_scatterplot.png)
+
+
+##
+##
+##
+
 ```
 ```
 ggplot(IBS1, aes(x=BMI, y=SerumCortisol)) +
   geom_point() +    
-  geom_smooth(method=lm)
-## ACTH Scatterplot
-![](fig_output/ACTH_scatterplot.png)
+  geom_smooth(method=lm))
+
 ##
 ### Results of single regression, BMI x C-Reactive Protein (CRP)
 ```
@@ -43,7 +52,9 @@ Coefficients:
 ##
 ##
 ##
-### Results of multiple regression, BMI x Serum Cortisol + C-Reactive Protein (CRP)
+### ACTH Scatterplot
+![](fig_output/ACTH_scatterplot.png)
+
 ```
 > fit1 <- lm(BMI ~ SerumCortisol + CRP, data=IBS1)
 > summary(fit1)
