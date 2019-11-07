@@ -17,12 +17,11 @@ write.csv(IBS1, "data_output/output.csv")
 
 
 ## Single Regression Test
-single.regressioj <- lm(BMI~ACTH, data=ISB1)
+single.regression <- lm(BMI~ACTH, data=ISB1)
 print(single.regression)
 summary(single.regression)
 ## Scatterplots
 ## https://www.statmethods.net/graphs/scatterplot.html
-
 
 ggplot(IBS1, aes(x=BMI, y=ACTH)) +
 geom_point() +    
