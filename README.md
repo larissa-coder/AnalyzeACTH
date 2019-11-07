@@ -39,7 +39,7 @@ Coefficients:
   (Intercept)  SerumCortisol            CRP  
       30.7936        -0.5231         0.6042  
 ## ACTH SCatterplot
-![](fig_output/scatterplot.png)
+![](fig_output/ACTH_boxplot.png)
 ##
 ##
 ##
