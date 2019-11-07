@@ -24,8 +24,8 @@ Coefficients:
 ggplot(IBS1, aes(x=BMI, y=SerumCortisol)) +
   geom_point() +    
   geom_smooth(method=lm)
-## ACTH Boxplot
-![](fig_output/ACTH_boxplot.png)
+## ACTH Scatterplot
+![](fig_output/ACTH_scatterplot.png)
 ##
 ### Results of single regression, BMI x C-Reactive Protein (CRP)
 ```
@@ -38,7 +38,7 @@ lm(formula = BMI ~ SerumCortisol + CRP, data = IBS1)
 Coefficients:
   (Intercept)  SerumCortisol            CRP  
       30.7936        -0.5231         0.6042  
-## ACTH SCatterplot
+## ACTH Boxplot
 ![](fig_output/ACTH_boxplot.png)
 ##
 ##
