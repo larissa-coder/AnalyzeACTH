@@ -76,4 +76,5 @@ fit <- lm(SerumCortisol ~ BMI + CRP, data=IBS)
 s3d$plane3d(fit)
 ```
 ![BMI_Cortisol_CRP_3d-scatterplot](../master/Images/MultipleRegression_3way.png?sanitize=true)
-##
+## ReSults of single regression BMI-ACTH
+![](fig_output/ACTH_single.regression.png)
