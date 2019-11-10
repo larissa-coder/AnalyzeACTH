@@ -42,6 +42,6 @@ Coefficients:
     25.5406       0.0661 
     
 ```    
-![]("fig_output/ACTH_boxplot.png")
+![] (fig_output/ACTH_boxplot.png)
 
 
