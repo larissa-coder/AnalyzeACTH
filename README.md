@@ -1,11 +1,8 @@
-## AnalyzeBMI
-![doi](../master/Images/zenodo.3373938.svg?sanitize=true)
-### Single and multiple regressions, and scatterplots for clinical bloodwork and gene expression data.
-([AnalyzeBloodwork.R](../master/AnalyzeBloodwork.R)) will allow you to load a comma-delimited .csv with various datapoints, perform single and multiple regressions of Body Mass Index (BMI) vs. variables from the Complete Blood Count with Differential (CBC-D) results, and produce 2-D and 3-D scatterplots for the results. 
+## AnalyzeACTH
+Adrenocorticotropic Hormone is a polypeptide tropic hormone produced and secreted by the anterior pituitary gland. This hormone in turn causes the adrenal glands to make cortisol. The function of ACTH is to regulate the level of steroids hormone cortisol. ACTH test is used to determine diseases such as adrenal malfunction, lung tumor,and a pituitary tumor.  
 
-Data (RobinsonEtAl_Sup1.csv) was downloaded from: 
-
-Robinson, JM. et al. 2019. Complete blood count with differential: An effective diagnostic for IBS subtype in the context of BMI? BioRxiv. doi: https://doi.org/10.1101/608208.
+https://www.healthline.com/health/acth#procedure
+Calhoun, S. (2017). ACTH Test. Healthline, 1.
 
 ##
 ### Results of single regression, BMI x ACTH scatterplot
