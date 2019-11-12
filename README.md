@@ -1,9 +1,30 @@
 ## AnalyzeACTH
+### Single and multiple regressions, and scatterplots for clinical bloodwork and gene expression data.
+([AnalyzeACTH.R](../AnalyzeACTH-master/scripts/AnalyzeACTH.R)) will allow you to load a RobinsonEtAl_Sup1 .csv with various datapoints, perform single regressions of Body Mass Index (BMI) vs. ACTH from the Complete Blood Count with Differential (CBC-D) results, and produce 2-D scatterplots and boxplots for the results. 
+
 Adrenocorticotropic Hormone is a polypeptide tropic hormone produced and secreted by the anterior pituitary gland. This hormone in turn causes the adrenal glands to make cortisol. The function of ACTH is to regulate the level of steroids hormone cortisol. ACTH test is used to determine diseases such as adrenal malfunction, lung tumor,and a pituitary tumor.  
 
 https://www.healthline.com/health/acth#procedure
 Calhoun, S. (2017). ACTH Test. Healthline, 1.
 
+
+## Install necessary packages
+```
+> install.packages("ggplot2")
+> library(ggplot2)
+```
+
+## Assign "HIGH", "NORMAL", or "LOW" based on clinical range to the LDH_result parameter
+##https://www.uptodate.com/contents/measurement-of-acth-crh-and-other-hypothalamic-and-pituitary-peptides
+```
+> IBS1$ACTH_result[IBS1$ACTH > 60] <- "HIGH"
+
+> IBS1$ACTH_result[IBS1$ACTH <= 60 & IBS1$ACTH >= 10] <- "NORMAL"
+
+> IBS1$ACTH_result[IBS1$ACTH < 10] <- "LOW"
+
+> write.csv(IBS1, "data_output/ACTH_result.csv")
+```
 ##
 ### Results of single regression, BMI x ACTH scatterplot
 ```
