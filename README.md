@@ -27,7 +27,7 @@ Coefficients:
   
   ```
 > ggplot(IBS1, aes(x=BMI, y=ACTH)) + geom_point() + geom_smooth(method=lm)
-> png("fig_output/ACTH_single.regression boxplot.png")
+> png(fig_output/ACTH_boxplot.png)
 > ACTH_single.regression <- ggplot(IBS1, aes(x = BMI, y = ACTH)) + geom_point() + geom_smooth(method = lm) 
 > print(ACTH_single.regression)
 
