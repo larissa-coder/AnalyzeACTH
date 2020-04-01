@@ -18,13 +18,11 @@ Calhoun, S. (2017). ACTH Test. Healthline, 1.
 ##https://www.uptodate.com/contents/measurement-of-acth-crh-and-other-hypothalamic-and-pituitary-peptides
 ```
 > IBS1$ACTH_result[IBS1$ACTH > 60] <- "HIGH"
-
 > IBS1$ACTH_result[IBS1$ACTH <= 60 & IBS1$ACTH >= 10] <- "NORMAL"
-
 > IBS1$ACTH_result[IBS1$ACTH < 10] <- "LOW"
-
 > write.csv(IBS1, "data_output/ACTH_result.csv")
 ```
+
 ##
 ### Results of single regression, BMI x ACTH scatterplot
 ```
