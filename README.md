@@ -8,7 +8,6 @@ Adrenocorticotropic Hormone (ACTH) is a polypeptide tropic hormone produced and 
 https://www.healthline.com/health/acth#procedure
 Calhoun, S. (2017). ACTH Test. Healthline, 1.
 
-
 ## Install necessary packages
 ```
 > install.packages("ggplot2")
