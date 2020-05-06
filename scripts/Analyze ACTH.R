@@ -1,4 +1,7 @@
 ## BTEC330 Fosso Project2
+## By Larissa Fosso
+
+setwd("./")
 
 ## Install necessary packages
 
@@ -6,9 +9,10 @@ install.packages("ggplot2")
 library(ggplot2)
 
 ## Read data
+IBS <- read.csv("../data/GSE124549_20200330.csv", header = TRUE)
 IBS1 <- read.csv("data/RobinsonEtAl_Sup1.csv", header = TRUE)
+
 head(IBS1)
-write.csv(IBS1, "data_output/output.csv")
 
 
 IBS1$ACTH_result <- "NA"
@@ -24,15 +28,6 @@ IBS1$ACTH_result[IBS1$ACTH < 10] <- "LOW"
 
 write.csv(IBS1, "data_output/ACTH_result.csv")
 
-##  Single Regressions for BMI vs. ACTH
-##  Data was obtained from Robinson, et al. 2019 (doi: https://doi.org/10.1101/608208)
-##  https://statquest.org/2017/10/30/statquest-multiple-regression-in-r/
-##  http://www.sthda.com/english/articles/40-regression-analysis/167-simple-linear-regression-in-r/
-##  http://r-statistics.co/Linear-Regression.html
-
-## Single Regression Test
-ACTH.regression <- lm(BMI ~ ACTH, data=IBS1)
-summary(ACTH.regression)
 
 ## Output the results to a file
 ## http://www.cookbook-r.com/Data_input_and_output/Writing_text_and_output_from_analyses_to_a_file/
@@ -85,19 +80,7 @@ s3d <- scatterplot3d(IBS$BMI, IBS$SerumCortisol, IBS$CRP,  pch=16, color="steelb
 fit <- lm(SerumCortisol ~ BMI + CRP, data=IBS)
 s3d$plane3d(fit)
 
-## BTEC395 S2020 Project2 
-
-
-setwd("./")
-
-## Install necessary packages
-install.packages("ggplot2")
-library(ggplot2)
-
-## Read data
-#IBS <- read.csv("data/RobinsonEtAl_Sup1.csv", header = TRUE)
-IBS <- read.csv("../data/GSE124549_20200330.csv", header = TRUE)
-
+## BTEC395 spring2020 Final Project (new lines of codes)
 
 ## Recursive analysis for regression  - RNA Expression
 ## https://stackoverflow.com/questions/42464767/how-to-run-lm-regression-for-every-column-in-r
@@ -126,6 +109,7 @@ summary(storage$AGO2)$coefficients[,4]
 sink('../data_output/ACTH_storage.txt', append = TRUE)
 print(storage)
 sink()
+
 
 
 
