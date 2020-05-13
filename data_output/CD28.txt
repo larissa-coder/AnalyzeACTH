@@ -1,0 +1,20 @@
+Call:
+   aov(formula = CD28 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                  IBSsubtype    Residuals
+Sum of Squares   45032061238 613049924751
+Deg. of Freedom            2           93
+
+Residual standard error: 81190.73
+Estimated effects may be unbalanced
+Call:
+   aov(formula = CD28 ~ IBSsubtype, data = IBS1)
+
+Terms:
+                  IBSsubtype    Residuals
+Sum of Squares   45032061238 613049924751
+Deg. of Freedom            2           93
+
+Residual standard error: 81190.73
+Estimated effects may be unbalanced

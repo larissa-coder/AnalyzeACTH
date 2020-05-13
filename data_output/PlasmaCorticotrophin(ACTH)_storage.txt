@@ -1,0 +1,2501 @@
+Error in install.packages : Updating loaded packages
+$A2M
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            1665.392                                 8.014  
+
+
+$AASS
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             9531.69                                -15.83  
+
+
+$ABCF1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            66802.73                                -36.82  
+
+
+$ADAM9
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                           10857.900                                -7.743  
+
+
+$AGO2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            50259.07                                -67.26  
+
+
+$AKT3
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            261217.4                                -724.9  
+
+
+$Angptl4
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            343718.8                                -699.6  
+
+
+$ANP32B
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                              762489                                  2603  
+
+
+$ANXA1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            415.9341                               -0.7763  
+
+
+$APOE
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             4762.89                                -17.44  
+
+
+$Areg
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            645542.3                                 357.6  
+
+
+$ARL4D
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             447.499                                -5.968  
+
+
+$Atf3
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             3856.67                                 29.84  
+
+
+$ATM
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             5463.17                                 75.36  
+
+
+$BATF
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            10914.54                                -16.59  
+
+
+$BCL2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            159901.6                                -187.2  
+
+
+$BCL6
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                           100497.81                                -47.84  
+
+
+$BHLHE40
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            87876.49                                 37.86  
+
+
+$BLK
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             33545.4                                 -57.5  
+
+
+$BTLA
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            106939.1                                 197.3  
+
+
+$BTNL3
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            632.8767                               -0.9102  
+
+
+$CCL13
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             1558.64                                 18.17  
+
+
+$CCL17
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             773.714                                 3.166  
+
+
+$Ccl2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             1418.98                                -10.57  
+
+
+$CCL22
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             574.939                                -3.399  
+
+
+$Ccl3
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            162109.1                                -148.7  
+
+
+$Ccl4
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            100188.8                                 852.2  
+
+
+$CCL7
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             5674.66                                -17.94  
+
+
+$CCNG2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            18215.83                                 35.25  
+
+
+$CCR2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                              330157                                  2563  
+
+
+$CCR3
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            24786.27                                 40.57  
+
+
+$CCR5
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             31192.3                                 183.7  
+
+
+$CD14
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             38066.5                                  27.8  
+
+
+$CD160
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             3308.82                                 19.13  
+
+
+$CD163
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            1742.476                                 7.261  
+
+
+$CD19
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             1777.01                                 10.78  
+
+
+$CD1A
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            108877.2                                -324.6  
+
+
+$CD1B
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            1674.472                                 7.497  
+
+
+$CD1E
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             72278.5                                -301.4  
+
+
+$CD2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             3281.19                                -13.32  
+
+
+$CD209
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             61461.2                                -104.9  
+
+
+$CD27
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             16357.1                                 100.5  
+
+
+$CD274
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             21294.9                                  41.5  
+
+
+$CD28
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                              343161                                  -863  
+
+
+$Cd300lb
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            111550.2                                -296.5  
+
+
+$CD33
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            175974.5                                 113.2  
+
+
+$CD38
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            22623.75                                 42.66  
+
+
+$CD3E
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             51288.7                                 -97.3  
+
+
+$CD3G
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                           121213.49                                -87.23  
+
+
+$CD4
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                              827167                                 -1003  
+
+
+$CD40
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            176598.1                                 700.7  
+
+
+$CD40LG
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            230473.7                                -462.8  
+
+
+$CD6
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            69036.09                                -92.22  
+
+
+$CD68
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             59463.4                                -278.1  
+
+
+$CD8A
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            178147.3                                 808.5  
+
+
+$CD8B
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             3402.72                                 -2.07  
+
+
+$CD9
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            54915.42                                 63.13  
+
+
+$CEBPB
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             1536.61                                -15.95  
+
+
+$CHIT1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            11143.33                                 19.47  
+
+
+$Cited2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            657.4768                               -0.6787  
+
+
+$CLTC
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                              765804                                 -4612  
+
+
+$CMA1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             72667.5                                -227.4  
+
+
+$CR2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            2939.557                                 2.641  
+
+
+$CSF2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             277.392                                -2.179  
+
+
+$CSF3R
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                              222159                                 -1760  
+
+
+$CTLA4
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                              244864                                 -1712  
+
+
+$CTSG
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             1160545                                  2244  
+
+
+$Cxcl10
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                           14702.421                                 5.581  
+
+
+$CXCL13
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             2643.72                                 10.61  
+
+
+$CXCL5
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             36633.0                                 145.8  
+
+
+$CXCL8
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             90057.9                                 271.5  
+
+
+$CXCR4
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            26784.26                                 92.09  
+
+
+$CXCR6
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            111384.3                                 342.3  
+
+
+$Ddit4
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             5687.34                                 75.32  
+
+
+$DGCR8
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            44664.21                                 10.09  
+
+
+$DICER1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            209314.8                                 409.2  
+
+
+$DOCK9
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                           114475.80                                -88.52  
+
+
+$DROSHA
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             70446.2                                 119.8  
+
+
+$DUSP1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            964520.2                                -177.6  
+
+
+$Dusp5
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             38282.7                                 283.9  
+
+
+$Egr2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             86540.4                                 317.6  
+
+
+$Egr3
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            260867.0                                 407.5  
+
+
+$Enc1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             5438.45                                -15.97  
+
+
+$Ets1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            12015.69                                -48.58  
+
+
+$Etv3
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             29354.8                                 162.8  
+
+
+$EWSR1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            374353.5                                -558.7  
+
+
+$F13A1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                           61085.997                                -2.439  
+
+
+$FEZ1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                              682759                                 -4776  
+
+
+$Fkbp5
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             7752.62                                 39.75  
+
+
+$FLT3LG
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            248399.0                                -399.8  
+
+
+$FOXP3
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             5705.04                                -13.39  
+
+
+$FPR2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            22100.45                                 50.55  
+
+
+$FUT5
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            3906.366                                 8.551  
+
+
+$Fzd4
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            269233.8                                 507.6  
+
+
+$G6PD
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             2125.45                                 15.18  
+
+
+$GADD45A
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                           103945.79                                 11.35  
+
+
+$GAPDH
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             28634.7                                -103.8  
+
+
+$GATA3
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             1234048                                  3126  
+
+
+$GLP1R
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             67783.6                                -167.4  
+
+
+$GNLY
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             1323.86                                 11.45  
+
+
+$Gpr84
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            233474.7                                -319.4  
+
+
+$GSTM3
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            11508.76                                -45.79  
+
+
+$GUSB
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             37189.0                                 132.9  
+
+
+$GZMA
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            392934.6                                -602.3  
+
+
+$GZMH
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                               75119                                  -407  
+
+
+$GZMM
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            52025.98                                -87.93  
+
+
+$HLA.DOB
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             2727.80                                 18.44  
+
+
+$HPRT1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             87623.9                                 474.2  
+
+
+$HPSE
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            78229.29                                 66.81  
+
+
+$HSD11B1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            39879.42                                 66.25  
+
+
+$Hsp1a
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             281.622                                -2.066  
+
+
+$ICOS
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             54303.4                                -241.2  
+
+
+$Ier3
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             55617.5                                -158.6  
+
+
+$Ier5
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             5104.60                                 -7.81  
+
+
+$Ifnb1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             1416.43                                 11.14  
+
+
+$IFNG
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             9274.25                                 19.15  
+
+
+$IL10
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             746.399                                 1.542  
+
+
+$IL12b
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             3416.47                                 24.61  
+
+
+$IL12RB2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             457.000                                -1.478  
+
+
+$IL13
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            171561.6                                 495.6  
+
+
+$Il15ra
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            1377.470                                 5.103  
+
+
+$IL17A
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            30527.69                                -36.37  
+
+
+$IL17RA
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             25096.8                                -347.2  
+
+
+$IL1A
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             994.147                                 7.689  
+
+
+$IL1B
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             1279.55                                  8.53  
+
+
+$IL1R2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            22741.61                                -73.95  
+
+
+$Il1rn
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             1398.32                                 20.48  
+
+
+$IL2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             8321.99                                -19.03  
+
+
+$IL26
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            1043.820                                 3.802  
+
+
+$IL2RA
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            156431.3                                -659.6  
+
+
+$IL3
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            1695.429                                 5.685  
+
+
+$Il1f9
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            4205.515                                 1.042  
+
+
+$IL3RA
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             4288.70                                -13.63  
+
+
+$IL4
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             1056742                                 -3252  
+
+
+$IL4R
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             39780.0                                 168.6  
+
+
+$IL5
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            151337.6                                 419.5  
+
+
+$IL5RA
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            3340.616                                -6.331  
+
+
+$IL6
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            19793.04                                 10.79  
+
+
+$IL7R
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             802.410                                 4.609  
+
+
+$Irf1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            17745.57                                 35.36  
+
+
+$Jdp2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            126385.1                                 195.5  
+
+
+$JUN
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            11467.15                                 80.12  
+
+
+$Junb
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             38376.7                                 126.4  
+
+
+$Kcnk6
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            334396.2                                -879.6  
+
+
+$KIR3DL1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            30311.08                                -89.93  
+
+
+$KIT
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            2297.723                                 4.009  
+
+
+$KLF15
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                              2358.0                                  11.4  
+
+
+$Klf2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            75743.65                                -79.26  
+
+
+$Klf4
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            151719.3                                 549.7  
+
+
+$Klf7
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             17244.0                                  13.7  
+
+
+$Klf9
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                              731167                                  -655  
+
+
+$KLRD1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             43701.2                                 385.3  
+
+
+$KLRF1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            68553.58                                 85.55  
+
+
+$LAIR2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             980.614                                 2.113  
+
+
+$LCN2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             6684.00                                -34.63  
+
+
+$Lif
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             84505.1                                -132.4  
+
+
+$LTA
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            19023.15                                -33.14  
+
+
+$LTK
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            5037.532                                 2.474  
+
+
+$LYZ
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             8152260                                 40359  
+
+
+$MAF
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            2266.525                                 1.343  
+
+
+$MAP2K1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             57332.5                                -116.2  
+
+
+$MAPK1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             90540.8                                 149.6  
+
+
+$MAPK11
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                           154175.91                                -13.22  
+
+
+$MAPK12
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            9271.238                                -7.773  
+
+
+$MAPK13
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             389.216                                -3.395  
+
+
+$MAPK14
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             43927.3                                -121.7  
+
+
+$MAPK8
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                           1.970e+05                             6.689e+00  
+
+
+$MARCO
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                           24237.409                                -7.931  
+
+
+$MME
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             3746.79                                 15.43  
+
+
+$MS4A1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                              8210.3                                -108.9  
+
+
+$MS4A2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            338048.3                                 133.5  
+
+
+$MSR1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             7062.98                                -69.77  
+
+
+$MT2A
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                                8038                                   188  
+
+
+$MUC1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            59259.15                                -82.39  
+
+
+$Mxd1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            1604.759                                 1.579  
+
+
+$NCAM1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                              120519                                 -1072  
+
+
+$NCR1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            24775.22                                 39.18  
+
+
+$NEFL
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            33732.37                                 65.58  
+
+
+$NFATC4
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            6985.895                                 9.632  
+
+
+$Nfil3
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             3073.96                                -16.14  
+
+
+$NFKB1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            41095.37                                 18.06  
+
+
+$NFKB2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            94782.75                                 29.12  
+
+
+$NFKBIA
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                              560729                                  2422  
+
+
+$NLRP2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                           24358.091                                 6.279  
+
+
+$NMUR1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            10504.58                                 59.02  
+
+
+$NR3C1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            136305.0                                 110.2  
+
+
+$NT5E
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             28678.9                                -135.9  
+
+
+$NUMA1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            137515.5                                 246.9  
+
+
+$NUP107
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            82341.19                                -23.81  
+
+
+$SAAS
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            32014.71                                 53.96  
+
+
+$PDCD1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            1676.120                                -1.266  
+
+
+$PDCD1LG2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                              978.31                                  2.64  
+
+
+$Per1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            2293.841                                 4.647  
+
+
+$Pfkfb3
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            209033.3                                 191.7  
+
+
+$PMCH
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            524437.4                                 411.4  
+
+
+$POLR2A
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             2403.20                                 18.83  
+
+
+$Prdm1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            163728.9                                -196.9  
+
+
+$PRF1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            1440.927                                -1.054  
+
+
+$PRG2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            6913.667                                 5.652  
+
+
+$PRKAA1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             7678.75                                 54.57  
+
+
+$PRODH
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             78382.0                                 532.6  
+
+
+$PTGDR2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            96396.58                                 79.44  
+
+
+$Ptgs2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             62007.6                                -126.7  
+
+
+$PTX3
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             20955.2                                -203.6  
+
+
+$RAB11A
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                              413703                                 -1832  
+
+
+$RAB8B
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                           138217.41                                -34.25  
+
+
+$Rasgef1b
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            121146.7                                 254.7  
+
+
+$REL
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                           15211.182                                -6.507  
+
+
+$RELA
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                           21662.896                                -3.846  
+
+
+$RELB
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            125516.5                                -216.6  
+
+
+$REPS1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             8444.69                                  4.24  
+
+
+$Rit1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                           5931180.7                                 117.4  
+
+
+$RORC
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             24680.6                                 160.7  
+
+
+$RPL19
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            64588.57                                -87.32  
+
+
+$CD62L
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             5561.14                                -45.07  
+
+
+$Sik1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             19626.2                                -336.8  
+
+
+$SLPI
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                           152214.44                                -86.99  
+
+
+$SMAD2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                              6961.1                                 -45.2  
+
+
+$SMPD3
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                           107787.85                                -44.45  
+
+
+$STAT4
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            424314.2                                 140.1  
+
+
+$STAT6
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             1777.53                                 17.03  
+
+
+$SYT17
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             39218.4                                 444.5  
+
+
+$TARBP2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            11683.13                                 21.14  
+
+
+$TARP
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                           184666.74                                 16.86  
+
+
+$TAS1R3
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            1932.131                                 9.608  
+
+
+$TAS2R38
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            1282.193                                 5.908  
+
+
+$TBP
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            59865.07                                 17.18  
+
+
+$TBX21
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             87071.1                                -170.7  
+
+
+$TGFB1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                              927068                                 -1700  
+
+
+$TGFB2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             3264.14                                -17.74  
+
+
+$THBS1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            119384.2                                -753.2  
+
+
+$TLR2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                              126387                                   170  
+
+
+$TLR4
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             95030.8                                 278.9  
+
+
+$TNF
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            44901.32                                 58.57  
+
+
+$Tnfaip2
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            17066.34                                -77.48  
+
+
+$TNFRSF17
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            11212.33                                -18.33  
+
+
+$TNFRSF18
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            2115.505                                -3.559  
+
+
+$TNFRSF4
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                                2356                                    10  
+
+
+$TNFRSF9
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            58716.64                                 85.34  
+
+
+$Tnfsf4
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             3385.47                                 40.62  
+
+
+$TOLLIP
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             46541.9                                 161.5  
+
+
+$TPSAB1
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            80872.54                                -86.69  
+
+
+$TRIO
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            195784.6                                 372.3  
+
+
+$Tsc22d3
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             62719.3                                -339.2  
+
+
+$TUBB
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            817557.6                                 301.4  
+
+
+$USP9Y
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             11854.6                                 408.6  
+
+
+$VEGFA
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                               18870                                   111  
+
+
+$XPO5
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                            22638.39                                 42.93  
+
+
+$ZFP36
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                              885562                                  3066  
+
+
+$ZNF205
+
+Call:
+lm(formula = get(i) ~ Plasma.Corticotrophin..ACTH...pg.mL., data = IBS)
+
+Coefficients:
+                         (Intercept)  Plasma.Corticotrophin..ACTH...pg.mL.  
+                             492.559                                 2.686  
+
+

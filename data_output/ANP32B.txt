@@ -1,0 +1,20 @@
+Call:
+   aov(formula = ANP32B ~ IBSsubtype, data = IBS1)
+
+Terms:
+                  IBSsubtype    Residuals
+Sum of Squares  1.140166e+11 7.272761e+12
+Deg. of Freedom            2           93
+
+Residual standard error: 279645.7
+Estimated effects may be unbalanced
+Call:
+   aov(formula = ANP32B ~ IBSsubtype, data = IBS1)
+
+Terms:
+                  IBSsubtype    Residuals
+Sum of Squares  1.140166e+11 7.272761e+12
+Deg. of Freedom            2           93
+
+Residual standard error: 279645.7
+Estimated effects may be unbalanced

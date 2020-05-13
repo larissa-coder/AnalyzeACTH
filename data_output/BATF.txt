@@ -1,0 +1,20 @@
+Call:
+   aov(formula = BATF ~ IBSsubtype, data = IBS1)
+
+Terms:
+                IBSsubtype  Residuals
+Sum of Squares    28652745 1763240600
+Deg. of Freedom          2         93
+
+Residual standard error: 4354.26
+Estimated effects may be unbalanced
+Call:
+   aov(formula = BATF ~ IBSsubtype, data = IBS1)
+
+Terms:
+                IBSsubtype  Residuals
+Sum of Squares    28652745 1763240600
+Deg. of Freedom          2         93
+
+Residual standard error: 4354.26
+Estimated effects may be unbalanced
