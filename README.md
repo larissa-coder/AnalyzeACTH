@@ -61,3 +61,12 @@ Coefficients:
 ![](fig_output/ACTH_boxplot.png)
 
 ![](fig_output/ACTHplot.png)
+
+### Gene Significance for ACTH
+
+| Gene| Name|
+|-----|-----|
+| MT2A| Methallothionein 2A|
+|USP9Y|Ubiquitin Specific Peptidase 9 Y-Linked|
+| GUSB| Beta-Glucuronidase|
+|ANGPTL4| Angiopoietin-like4|
