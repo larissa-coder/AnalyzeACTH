@@ -60,4 +60,4 @@ Coefficients:
 ```    
 ![](fig_output/ACTH_boxplot.png)
 
-![](fig_output/ACTH plot.png)
+![](fig_output/ACTHplot.png)
