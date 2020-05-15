@@ -19,7 +19,6 @@ IBS <- read.csv("../data/GSE124549_20200330.csv", header = TRUE)
 ## http://www.learnbymarketing.com/tutorials/explaining-the-lm-summary-in-r/
 ## https://tutorials.iq.harvard.edu/R/Rstatistics/Rstatistics.html
 
-
 ## Access only the columns with RNA Expression
 names(IBS)[37:286]
 
@@ -34,7 +33,6 @@ for(i in names(IBS)[37:286]){
 summary(storage$AGO2)
 summary(storage$AGO2)$r.squared
 summary(storage$AGO2)$coefficients[,4]
-
 
 ## output the results of the 250 genes in data_output folder
 sink('../data_output/ACTH_storage.txt', append = TRUE)
