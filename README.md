@@ -70,3 +70,8 @@ Coefficients:
 |USP9Y|Ubiquitin Specific Peptidase 9 Y-Linked|
 | GUSB| Beta-Glucuronidase|
 |ANGPTL4| Angiopoietin-like4|
+
+### Gene Ontology Analysis for the Significant genes
+
+Gene ontology is a major bioinformatics initiative to unify the representation of gene and gene product attributes across all species. 
+I put my genes on Pantherdb.org but the website did not gave me a pathway. I do not know why.
